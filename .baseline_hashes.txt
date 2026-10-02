@@ -1,0 +1,2 @@
+8d270388c9dbeb77a3b19c53fdefd140bd18f6664e1c6f260662bc4cdeb1470e  ./secure_data/config.txt
+90758b14f4f0e8693d79a4edc10077a479c99995a68083334cbafd3893d7a022  ./secure_data/users.txt
